@@ -52,7 +52,7 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
     <img src="https://cdn-icons-png.flaticon.com/512/281/281779.png" alt="Gmail" height="30">
   </a>
   <a href="https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="X" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Twitter" height="30">
   </a>
   <a href="https://github.com/hagarSamy">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30">
