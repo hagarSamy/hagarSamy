@@ -40,7 +40,7 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 ---
 
 <p align="left">
-  <i>Let's connect and chat! Find me on the web...</i>
+  **Let's connect and chat! Find me on the web...**
   <br />
   
   <a href="https://www.linkedin.com/in/hagar-samy-420414220">
@@ -61,6 +61,7 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
   <a href="https://discord.gg/hagarsamy0">
     <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" height="30">
   </a>
+  <br />
   <br />
 </p>
     Show ❤️ by starring repositories you find good! 
