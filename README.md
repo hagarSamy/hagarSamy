@@ -39,18 +39,18 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 
 ---
 
-<p align="center">
+<p align="left">
   <i>Let's connect and chat! Find me on the web...</i>
   <br />
   
   <a href="https://www.linkedin.com/in/hagar-samy-420414220">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30">
   </a>
   <a href="https://medium.com/@HagarSamy">
     <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" height="30">
   </a>
   <a href="mailto:hagarsami63@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281779.png" alt="Gmail" height="30">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" height="30">
   </a>
   <a href="https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09">
     <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="Twitter" height="30">
@@ -61,6 +61,7 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
   <a href="https://discord.gg/hagarsamy0">
     <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" height="30">
   </a>
+  <br />
 </p>
     Show ❤️ by starring repositories you find good! 
     <br />
