@@ -41,32 +41,25 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 
 <p align="left">
   <h3 style="font-weight: 600;">Let's connect and chat! Find me on the web...</h3>
-  <br />
   <a href="https://www.linkedin.com/in/hagar-samy-420414220">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30" style="margin: 0 15px;">
   </a>
-    
   <a href="https://medium.com/@HagarSamy">
-    <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" height="30" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" height="30" style="margin: 0 15px;">
   </a>
-  
   <a href="mailto:hagarsami63@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" height="30" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" height="30" style="margin: 0 15px;">
   </a>
-  
   <a href="https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09">
-    <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="Twitter" height="30" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="Twitter" height="30" style="margin: 0 15px;">
   </a>
-  
   <a href="https://github.com/hagarSamy">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" style="margin: 0 15px;">
   </a>
-  
   <a href="https://discord.gg/hagarsamy0">
-    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" height="30" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" height="30" style="margin: 0 15px;">
   </a>
   <br />
-  
 </p>
     Show ❤️ by starring repositories you find good! 
     <br />
