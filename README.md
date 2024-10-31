@@ -41,15 +41,14 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Hagar%20Samy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagar-samy-420414220)](https://www.linkedin.com/in/hagar-samy-420414220) 
-[![Medium Badge](https://img.shields.io/badge/-@HagarSamy-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@HagarSamy)](https://medium.com/@HagarSamy) 
-[![Gmail Badge](https://img.shields.io/badge/-hagarsami63-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hagarsami63@gmail.com)](mailto:hagarsami63@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/-@HagarSamy0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09)](https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09)
-[![GitHub Badge](https://img.shields.io/badge/-hagarSamy-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hagarSamy)](https://github.com/hagarSamy)
 
-
-  <p align="center">
+  <a href="https://www.linkedin.com/in/hagar-samy-420414220"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30"></a>
+  <a href="https://medium.com/@HagarSamy"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Medium" height="30"></a>
+  <a href="mailto:hagarsami63@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281779.png" alt="Gmail" height="30"></a>
+  <a href="https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Twitter" height="30"></a>
+  <a href="https://github.com/hagarSamy"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30"></a>
+  <a href="https://discord.gg/hagarsamy0"><img src="https://cdn-icons-png.flaticon.com/512/882/882438.png" alt="Discord" height="30"></a>
+</p>
     Show ❤️ by starring repositories you find good! 
     <br />
         ⭐️ From <a href="https://github.com/hagarSamy">Hagar Samy</a>
