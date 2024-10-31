@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm Hagar Samy, I'm an aspiring full stack web developer.
+I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 ---
 
 **Languages and Tools:**
@@ -15,10 +15,10 @@ I'm Hagar Samy, I'm an aspiring full stack web developer.
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/5f3276a743622efbc5b65378823b0c31af1b50cc/topics/postgresql/postgresql.png" alt="PostgreSQL">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/5f3276a743622efbc5b65378823b0c31af1b50cc/topics/postgresql/postgresql.png">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/6fd8c3e261f67d62b479f376e47c7a6a1bc885b8/topics/express/express.png" alt="Express">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/6fd8c3e261f67d62b479f376e47c7a6a1bc885b8/topics/express/express.png">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
