@@ -32,7 +32,7 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=hagarSamy&hide=stars&show_icons=true&theme=merko&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=hagarSamy&hide=stars&show_icons=true&theme=tokyonight&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagarSamy&count_private=true&theme=tokyonight">
 
 </p>
