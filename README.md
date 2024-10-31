@@ -15,10 +15,10 @@ I'm Hagar Samy, I'm an aspiring full stack web developer.
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/331c1a7b2f4d7f9ac1b8ad65dc98e7353b8d2f82/topics/postgresql/postgresql.png" alt="PostgreSQL">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/5f3276a743622efbc5b65378823b0c31af1b50cc/topics/postgresql/postgresql.png" alt="PostgreSQL">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/06c46459d3d6ce7f68c5b5b48d39e3d7a708e7c8/topics/express/express.png" alt="Express">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/6fd8c3e261f67d62b479f376e47c7a6a1bc885b8/topics/express/express.png" alt="Express">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
@@ -52,7 +52,7 @@ I'm Hagar Samy, I'm an aspiring full stack web developer.
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Hagar Samy](https://github.com/hagarSamy)
+        ⭐️ From <a href="https://github.com/hagarSamy">Hagar Samy</a>
     <br />
     Also, star and fork this repository if you wish to give this new feature a try ^^
   </p>
