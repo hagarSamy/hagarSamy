@@ -41,13 +41,25 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
-
-  <a href="https://www.linkedin.com/in/hagar-samy-420414220"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30"></a>
-  <a href="https://medium.com/@HagarSamy"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Medium" height="30"></a>
-  <a href="mailto:hagarsami63@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281779.png" alt="Gmail" height="30"></a>
-  <a href="https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Twitter" height="30"></a>
-  <a href="https://github.com/hagarSamy"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30"></a>
-  <a href="https://discord.gg/hagarsamy0"><img src="https://cdn-icons-png.flaticon.com/512/882/882438.png" alt="Discord" height="30"></a>
+  
+  <a href="https://www.linkedin.com/in/hagar-samy-420414220">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30">
+  </a>
+  <a href="https://medium.com/@HagarSamy">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Medium" height="30">
+  </a>
+  <a href="mailto:hagarsami63@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281779.png" alt="Gmail" height="30">
+  </a>
+  <a href="https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Twitter" height="30">
+  </a>
+  <a href="https://github.com/hagarSamy">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30">
+  </a>
+  <a href="https://discord.gg/hagarsamy0">
+    <img src="https://cdn-icons-png.flaticon.com/512/882/882438.png" alt="Discord" height="30">
+  </a>
 </p>
     Show ❤️ by starring repositories you find good! 
     <br />
