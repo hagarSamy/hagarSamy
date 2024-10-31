@@ -40,7 +40,8 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
 ---
 
 <p align="left">
-  **Let's connect and chat! Find me on the web...**
+  <h1> Let's connect and chat! Find me on the web... </h1>
+  <br />
   <br />
   
   <a href="https://www.linkedin.com/in/hagar-samy-420414220">
