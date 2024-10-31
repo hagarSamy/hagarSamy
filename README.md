@@ -44,7 +44,7 @@ I'm Hagar Samy, a passionate learner and an aspiring full stack web developer.
   
 [![Linkedin Badge](https://img.shields.io/badge/-Hagar%20Samy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagar-samy-420414220)](https://www.linkedin.com/in/hagar-samy-420414220) 
 [![Medium Badge](https://img.shields.io/badge/-@HagarSamy-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@HagarSamy)](https://medium.com/@HagarSamy) 
-[![Gmail Badge](https://img.shields.io/badge/-hagarsam63-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hagarsami63@gmail.com)](mailto:hagarsami63@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-hagarsami63-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hagarsami63@gmail.com)](mailto:hagarsami63@gmail.com) 
 [![Twitter Badge](https://img.shields.io/badge/-@HagarSamy0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09)](https://x.com/HagarSamy0?t=AAA28Ojnf5SjJl5ZrBQYSg&s=09)
 [![GitHub Badge](https://img.shields.io/badge/-hagarSamy-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hagarSamy)](https://github.com/hagarSamy)
 
